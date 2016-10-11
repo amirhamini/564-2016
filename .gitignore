@@ -1,0 +1,5 @@
+*.mat
+.ipynb_checkpoints
+*.html
+.DS_Store
+*.txt
